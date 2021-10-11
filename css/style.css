@@ -11,7 +11,7 @@
 .site-name {
     float: left;
     padding: 5px 5px;
-    margin: 13px 0px;
+    margin: 17px 0px;
 }
 
 .navbar ul {
@@ -29,11 +29,11 @@
     display: block;
     text-decoration: none;
     color: rgb(31, 211, 31);
-    font-size: 30px;
+    font-size: 22px;
 }
 
 .menu {
-    padding: 18px 18px;
+    padding: 18px 13px;
 }
 
 #right-nav {
