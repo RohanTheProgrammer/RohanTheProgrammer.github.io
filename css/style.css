@@ -1,0 +1,43 @@
+.navbar {
+    background-color: black;
+}
+
+#logo {
+    float: left;
+    width: 70px;
+    margin: 0px 5px;
+}
+
+.site-name {
+    float: left;
+    padding: 5px 5px;
+    margin: 13px 0px;
+}
+
+.navbar ul {
+    overflow: auto;
+    margin: 0px;
+}
+
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 8px 10px;
+}
+
+.navbar li a {
+    display: block;
+    text-decoration: none;
+    color: rgb(31, 211, 31);
+    font-size: 30px;
+}
+
+.menu {
+    padding: 18px 18px;
+}
+
+#right-nav {
+    float: right;
+    overflow: auto;
+    padding-right: 45px;
+}
